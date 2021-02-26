@@ -1,7 +1,7 @@
 # CS330-Pintos-2019Spring
 This is the repository for implementing Pintos projects in ```KAIST 2019 Spring CS330```.
 
-Working with [dw95kim](https://github.com/dw95kim)
+Working with [goodCycle](https://github.com/goodCycle)
 
 * Project 1 
   - Implement alarm clock, priority scheduling, advanced scheduler(BSD scheduler)
